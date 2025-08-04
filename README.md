@@ -1,4 +1,4 @@
-Lightweight Python tool to sort PNG images into keyword folders based on embedded prompt/metadata. Supports copy/move semantics with configurable multi-match handling.
+Lightweight Python tool to sort PNG images from Comfyui or any embedded PNG into keyword folders based on embedded prompt/metadata. Supports copy/move semantics with configurable multi-match handling.
 
 ## Features
 - Extracts prompt-like text from PNG metadata.
