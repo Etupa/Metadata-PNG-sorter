@@ -27,7 +27,7 @@ Lightweight Python tool to sort PNG images into keyword folders based on embedde
 
 
 
-# The built .exe is unsigned, so Windows/antivirus may flag it or show warnings like:
+### The built .exe is unsigned, so Windows/antivirus may flag it or show warnings:
 
 "Windows protected your PC" / "Unknown publisher"
 Right-click the .exe → Properties → click "Unblock" if present.
