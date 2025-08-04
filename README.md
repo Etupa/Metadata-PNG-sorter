@@ -19,9 +19,9 @@ Lightweight Python tool to sort PNG images from Comfyui or any embedded PNG into
 - Action: copy or move.
 
 - If multiple matches:
-    first: only the first matched keyword gets the file.
-    duplicate: copy to all matches; if move is selected, original is moved to the last match and copies are placed in the others.
-    skip: images matching multiple keywords are treated as no-match.
+    - first: only the first matched keyword gets the file.
+    - duplicate: copy to all matches; if move is selected, original is moved to the last match and copies are placed in the others.
+    - skip: images matching multiple keywords are treated as no-match.
 
 - Click Start Sorting. Logs show progress; summary dialog appears when done.
 
