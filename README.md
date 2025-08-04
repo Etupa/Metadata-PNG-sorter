@@ -7,7 +7,8 @@ Lightweight Python tool to sort PNG images into keyword folders based on embedde
 - GUI with thread-safe logging.
 - Copy or move behavior; in `duplicate+move` mode it copies to all but the last match and moves the original to the last.
 
-##Manual<br>
+## Manual
+<br>
 <img width="592" height="294" alt="image" src="https://github.com/user-attachments/assets/40b6efa6-d504-4620-9c3e-41d881a12a86" />
 
 -Source Folder: directory containing PNGs with embedded prompt/metadata.
